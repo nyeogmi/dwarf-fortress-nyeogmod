@@ -1,0 +1,22 @@
+item_nyeogmod_toy
+
+[OBJECT:ITEM]
+
+[ITEM_TOY:NYEOGMOD_ITEM_TOY_TEETH]
+[NAME:toy vampire teeth:toy vampire teeth]
+[HARD_MAT]
+
+[ITEM_TOY:NYEOGMOD_ITEM_TOY_CLOAK]
+[NAME:tiny cloak:tiny cloaks]
+
+[ITEM_TOY:NYEOGMOD_ITEM_TOY_STAKE]
+[NAME:bouncy stake:bouncy stakes]
+[HARD_MAT]
+
+[ITEM_TOY:NYEOGMOD_ITEM_TOY_BAT]
+[NAME:toy bat:toy bat]
+
+[ITEM_TOY:NYEOGMOD_ITEM_TOY_PENDULUM]
+[NAME:shiny pendulum:shiny pendulum]
+[HARD_MAT]
+

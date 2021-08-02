@@ -1,0 +1,2 @@
+    [FEMALE]
+    [MULTIPLE_LITTER_RARE]

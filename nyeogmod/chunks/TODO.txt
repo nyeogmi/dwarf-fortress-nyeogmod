@@ -1,0 +1,2 @@
+TODO: General thrall PERSONALITY block
+TODO: Consider not making thralls actually male or female, to prevent bearing young.
